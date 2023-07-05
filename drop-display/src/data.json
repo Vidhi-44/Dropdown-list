@@ -1,0 +1,12 @@
+[
+    {"id":1,"name":"Shirt 1","Price":"Rs 100"},
+    {"id":2,"name":"Shirt 2","Price":"RS 120"},
+    {"id":3,"name":"Shirt 3","Price":"Rs 150"},
+    {"id":4,"name":"Shirt 4","Price":"Rs 160"},
+    {"id":5,"name":"Shirt 5","Price":"Rs 170"},
+    {"id":6,"name":"Shirt 6","Price":"Rs 180"},
+    {"id":7,"name":"Trouser 1","Price":"Rs 170"},
+    {"id":8,"name":"Trouser 2","Price":"Rs 190"},
+    {"id":9,"name":"Trouser 3","Price":"Rs 200"},
+    {"id":10,"name":"Trouser 4","Price":"Rs 270"}
+    ]
